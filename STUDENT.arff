@@ -1,0 +1,17 @@
+% my data
+@relation student
+@attribute roll_no numeric
+@attribute name string
+@attribute dept {CSE, ECE, EEE, IT}
+@attribute result {PASS, FAIL}
+@attribute age numeric
+@attribute phone_no numeric
+
+@data
+1,Varsha,CSE,PASS,20,9845678910
+2,Reshma,CSE,PASS,20,7788906787
+3,Vani,EEE,PASS,22,9848757061
+4,Sakshi,EEE,FAIL,21,8899776688
+5,Sushma,ECE,FAIL,19,6675063090
+6,Kavitha,IT,PASS,21,8121783125
+7,Keerthana,IT,PASS,19,7645893921
